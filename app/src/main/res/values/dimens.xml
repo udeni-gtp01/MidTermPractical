@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSize">20sp</dimen>
+    <dimen name="itemPadding">10dp</dimen>
+    <dimen name="itemMargin">5dp</dimen>
+</resources>
